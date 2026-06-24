@@ -3,4 +3,4 @@ bir adet trafik işareti modelini test eden kod, py. halinde olduğu için ikisi
 bir adet trafik ışığı algılama modeli
 bir adet trafik ışığı algılama modelini test eden kod, py. halinde olduğu için ikisini aynı klasörde çalıştırın
 bir adet ikisini birlikte çalıştıran kod, py. halinde olduğu için ikisini aynı klasörde çalıştırın
-NOT: webcam üzerinden test yapıyor, videonuz varsa başka kod yazın
+NOT: webcam üzerinden test yapıyor, videonuz varsa başka kod yazın, ayrıca webcamde çalışan koddaki pencere küçük gelirse genişletebiliyorsunuz.
